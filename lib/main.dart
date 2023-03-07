@@ -49,7 +49,7 @@ class _QuizPageState extends State<QuizPage> {
                 questions[questionNumber],
                 textAlign: TextAlign.center,
                 style: TextStyle(
-                  fontSize: 24.0,
+                  fontSize: 25.0,
                   color: Colors.white,
                 ),
               ),
