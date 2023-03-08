@@ -77,7 +77,7 @@ class _QuizPageState extends State<QuizPage> {
                 if (correctAnswer == true) {
                   print('user got it right!');
                 } else {
-                  print('user got it wrong!');
+                  print('user got it wrong!!');
                 }
                 setState(() {
                   questionNumber++;
